@@ -1,0 +1,14 @@
+[
+  {
+    "NomeUsuario": "admin",
+    "SenhaHash": "$2a$11$.QkWSHyTOzf8uxF0p/Gi/.7.xhTvOpvD9S8oiNur/Xe9d925omzla",
+    "CodigoAutenticacao": "ADM01",
+    "NivelAcesso": 3
+  },
+  {
+    "NomeUsuario": "renanalberti",
+    "SenhaHash": "$2a$11$nYmeMIRI1YpFMC6rhwAmsOKr0zb/tWcuekhZpznhoXtBe2UUZDj8q",
+    "CodigoAutenticacao": "896953",
+    "NivelAcesso": 3
+  }
+]

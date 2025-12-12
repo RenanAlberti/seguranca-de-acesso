@@ -1,0 +1,17 @@
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.AssemblyInfoInputs.cache
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.AssemblyInfo.cs
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BD.exe
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BD.deps.json
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BD.runtimeconfig.json
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BD.dll
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BD.pdb
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.dll
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\refint\BD.dll
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.pdb
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.genruntimeconfig.cache
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\ref\BD.dll
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.csproj.AssemblyReference.cache
+C:\Users\renan.alberti\Desktop\Projetos - C\BD\obj\Debug\net9.0\BD.csproj.Up2Date
